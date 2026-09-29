@@ -1,0 +1,310 @@
+{
+ "logical_qubits": [
+  {
+   "id": 0,
+   "distance": 13
+  },
+  {
+   "id": 1,
+   "distance": 13
+  },
+  {
+   "id": 2,
+   "distance": 13
+  },
+  {
+   "id": 3,
+   "distance": 13
+  },
+  {
+   "id": 4,
+   "distance": 13
+  },
+  {
+   "id": 5,
+   "distance": 13
+  }
+ ],
+ "rotations": [
+  {
+   "index": 0,
+   "pauli": "XXIIYX",
+   "epsilon": 0.005154587726906989,
+   "t_count": 23
+  },
+  {
+   "index": 1,
+   "pauli": "YYIIYX",
+   "epsilon": 0.005154587726907501,
+   "t_count": 23
+  },
+  {
+   "index": 2,
+   "pauli": "YXIIYY",
+   "epsilon": 0.005154587726906168,
+   "t_count": 23
+  },
+  {
+   "index": 3,
+   "pauli": "XYIIYY",
+   "epsilon": 0.005154587726908809,
+   "t_count": 23
+  },
+  {
+   "index": 4,
+   "pauli": "YXIIXX",
+   "epsilon": 0.00515458772691222,
+   "t_count": 23
+  },
+  {
+   "index": 5,
+   "pauli": "XYIIXX",
+   "epsilon": 0.005154587726905552,
+   "t_count": 23
+  },
+  {
+   "index": 6,
+   "pauli": "XXIIXY",
+   "epsilon": 0.005154587726909605,
+   "t_count": 23
+  },
+  {
+   "index": 7,
+   "pauli": "YYIIXY",
+   "epsilon": 0.005154587726908271,
+   "t_count": 23
+  },
+  {
+   "index": 8,
+   "pauli": "XXYZZX",
+   "epsilon": 0.006240967374998776,
+   "t_count": 22
+  },
+  {
+   "index": 9,
+   "pauli": "YYYZZX",
+   "epsilon": 0.006240967375000107,
+   "t_count": 22
+  },
+  {
+   "index": 10,
+   "pauli": "YXYZZY",
+   "epsilon": 0.006240967375001595,
+   "t_count": 22
+  },
+  {
+   "index": 11,
+   "pauli": "XYYZZY",
+   "epsilon": 0.006240967375001614,
+   "t_count": 22
+  },
+  {
+   "index": 12,
+   "pauli": "YXXZZX",
+   "epsilon": 0.006240967374997453,
+   "t_count": 22
+  },
+  {
+   "index": 13,
+   "pauli": "XYXZZX",
+   "epsilon": 0.00624096737499982,
+   "t_count": 22
+  },
+  {
+   "index": 14,
+   "pauli": "XXXZZY",
+   "epsilon": 0.0062409673749974914,
+   "t_count": 22
+  },
+  {
+   "index": 15,
+   "pauli": "YYXZZY",
+   "epsilon": 0.006240967375001081,
+   "t_count": 22
+  },
+  {
+   "index": 16,
+   "pauli": "XXIYXI",
+   "epsilon": 0.006205906377547033,
+   "t_count": 22
+  },
+  {
+   "index": 17,
+   "pauli": "YYIYXI",
+   "epsilon": 0.00620590637754733,
+   "t_count": 22
+  },
+  {
+   "index": 18,
+   "pauli": "YXIYYI",
+   "epsilon": 0.006205906377547349,
+   "t_count": 22
+  },
+  {
+   "index": 19,
+   "pauli": "XYIYYI",
+   "epsilon": 0.006205906377546748,
+   "t_count": 22
+  },
+  {
+   "index": 20,
+   "pauli": "YXIXXI",
+   "epsilon": 0.006205906377546748,
+   "t_count": 22
+  },
+  {
+   "index": 21,
+   "pauli": "XYIXXI",
+   "epsilon": 0.006205906377550201,
+   "t_count": 22
+  },
+  {
+   "index": 22,
+   "pauli": "XXIXYI",
+   "epsilon": 0.006205906377549,
+   "t_count": 22
+  },
+  {
+   "index": 23,
+   "pauli": "YYIXYI",
+   "epsilon": 0.006205906377547874,
+   "t_count": 22
+  },
+  {
+   "index": 24,
+   "pauli": "XXYXII",
+   "epsilon": 0.006264933965230673,
+   "t_count": 22
+  },
+  {
+   "index": 25,
+   "pauli": "YYYXII",
+   "epsilon": 0.0062649339652314255,
+   "t_count": 22
+  },
+  {
+   "index": 26,
+   "pauli": "YXYYII",
+   "epsilon": 0.006264933965231705,
+   "t_count": 22
+  },
+  {
+   "index": 27,
+   "pauli": "XYYYII",
+   "epsilon": 0.006264933965232324,
+   "t_count": 22
+  },
+  {
+   "index": 28,
+   "pauli": "YXXXII",
+   "epsilon": 0.006264933965235335,
+   "t_count": 22
+  },
+  {
+   "index": 29,
+   "pauli": "XYXXII",
+   "epsilon": 0.006264933965235953,
+   "t_count": 22
+  },
+  {
+   "index": 30,
+   "pauli": "XXXYII",
+   "epsilon": 0.006264933965235991,
+   "t_count": 22
+  },
+  {
+   "index": 31,
+   "pauli": "YYXYII",
+   "epsilon": 0.006264933965237151,
+   "t_count": 22
+  },
+  {
+   "index": 32,
+   "pauli": "IYZXII",
+   "epsilon": 0.01,
+   "t_count": 20
+  },
+  {
+   "index": 33,
+   "pauli": "IXZYII",
+   "epsilon": 0.01,
+   "t_count": 20
+  },
+  {
+   "index": 34,
+   "pauli": "YZZZXI",
+   "epsilon": 0.007149893081765257,
+   "t_count": 22
+  },
+  {
+   "index": 35,
+   "pauli": "XZZZYI",
+   "epsilon": 0.007149893081765152,
+   "t_count": 22
+  },
+  {
+   "index": 36,
+   "pauli": "YZXIII",
+   "epsilon": 0.01,
+   "t_count": 20
+  },
+  {
+   "index": 37,
+   "pauli": "XZYIII",
+   "epsilon": 0.01,
+   "t_count": 20
+  },
+  {
+   "index": 38,
+   "pauli": "IYZZZX",
+   "epsilon": 0.007142006731920138,
+   "t_count": 22
+  },
+  {
+   "index": 39,
+   "pauli": "IXZZZY",
+   "epsilon": 0.007142006731919925,
+   "t_count": 22
+  }
+ ],
+ "budget": {
+  "observable": "energy",
+  "unit": "Hartree",
+  "total": 0.0016,
+  "ansatz": 7.993605777301127e-15,
+  "memory": 0.0004740903385630485,
+  "synthesis": 0.0011062107899804466,
+  "magic_state": 1.9698871448511318e-05
+ },
+ "assumptions": {
+  "p_phys": 0.001,
+  "p_T": 4.5e-08,
+  "during_step": "max",
+  "merge_rule": "min over support",
+  "duration_rule": "max over support",
+  "logical_Y": "omitted",
+  "alpha": 0.5,
+  "c_T": 190000.0,
+  "a": 3,
+  "b": 0,
+  "eps_max": 0.01,
+  "distances": [
+   3,
+   5,
+   7,
+   9,
+   11,
+   13,
+   15,
+   17,
+   19,
+   21,
+   23,
+   25,
+   27,
+   29,
+   31,
+   33
+  ]
+ }
+}

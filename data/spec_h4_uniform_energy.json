@@ -1,0 +1,750 @@
+{
+ "logical_qubits": [
+  {
+   "id": 0,
+   "distance": 15
+  },
+  {
+   "id": 1,
+   "distance": 15
+  },
+  {
+   "id": 2,
+   "distance": 15
+  },
+  {
+   "id": 3,
+   "distance": 15
+  },
+  {
+   "id": 4,
+   "distance": 15
+  },
+  {
+   "id": 5,
+   "distance": 15
+  },
+  {
+   "id": 6,
+   "distance": 15
+  },
+  {
+   "id": 7,
+   "distance": 15
+  }
+ ],
+ "rotations": [
+  {
+   "index": 0,
+   "pauli": "IIXXYXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 1,
+   "pauli": "IIYYYXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 2,
+   "pauli": "IIYXYYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 3,
+   "pauli": "IIXYYYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 4,
+   "pauli": "IIYXXXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 5,
+   "pauli": "IIXYXXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 6,
+   "pauli": "IIXXXYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 7,
+   "pauli": "IIYYXYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 8,
+   "pauli": "XZZXYZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 9,
+   "pauli": "YZZYYZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 10,
+   "pauli": "YZZXYZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 11,
+   "pauli": "XZZYYZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 12,
+   "pauli": "YZZXXZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 13,
+   "pauli": "XZZYXZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 14,
+   "pauli": "XZZXXZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 15,
+   "pauli": "YZZYXZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 16,
+   "pauli": "IXXIIYXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 17,
+   "pauli": "IYYIIYXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 18,
+   "pauli": "IYXIIYYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 19,
+   "pauli": "IXYIIYYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 20,
+   "pauli": "IYXIIXXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 21,
+   "pauli": "IXYIIXXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 22,
+   "pauli": "IXXIIXYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 23,
+   "pauli": "IYYIIXYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 24,
+   "pauli": "XXIIIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 25,
+   "pauli": "YYIIIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 26,
+   "pauli": "YXIIIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 27,
+   "pauli": "XYIIIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 28,
+   "pauli": "YXIIIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 29,
+   "pauli": "XYIIIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 30,
+   "pauli": "XXIIIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 31,
+   "pauli": "YYIIIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 32,
+   "pauli": "XXIIYXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 33,
+   "pauli": "YYIIYXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 34,
+   "pauli": "YXIIYYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 35,
+   "pauli": "XYIIYYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 36,
+   "pauli": "YXIIXXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 37,
+   "pauli": "XYIIXXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 38,
+   "pauli": "XXIIXYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 39,
+   "pauli": "YYIIXYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 40,
+   "pauli": "IIXXIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 41,
+   "pauli": "IIYYIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 42,
+   "pauli": "IIYXIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 43,
+   "pauli": "IIXYIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 44,
+   "pauli": "IIYXIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 45,
+   "pauli": "IIXYIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 46,
+   "pauli": "IIXXIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 47,
+   "pauli": "IIYYIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 48,
+   "pauli": "IXXIYZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 49,
+   "pauli": "IYYIYZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 50,
+   "pauli": "IYXIYZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 51,
+   "pauli": "IXYIYZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 52,
+   "pauli": "IYXIXZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 53,
+   "pauli": "IXYIXZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 54,
+   "pauli": "IXXIXZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 55,
+   "pauli": "IYYIXZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 56,
+   "pauli": "XZZXIYXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 57,
+   "pauli": "YZZYIYXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 58,
+   "pauli": "YZZXIYYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 59,
+   "pauli": "XZZYIYYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 60,
+   "pauli": "YZZXIXXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 61,
+   "pauli": "XZZYIXXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 62,
+   "pauli": "XZZXIXYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 63,
+   "pauli": "YZZYIXYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 64,
+   "pauli": "IXZXIYZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 65,
+   "pauli": "IYZYIYZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 66,
+   "pauli": "IYZXIYZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 67,
+   "pauli": "IXZYIYZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 68,
+   "pauli": "IYZXIXZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 69,
+   "pauli": "IXZYIXZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 70,
+   "pauli": "IXZXIXZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 71,
+   "pauli": "IYZYIXZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 72,
+   "pauli": "XZXIYZXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 73,
+   "pauli": "YZYIYZXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 74,
+   "pauli": "YZXIYZYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 75,
+   "pauli": "XZYIYZYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 76,
+   "pauli": "YZXIXZXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 77,
+   "pauli": "XZYIXZXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 78,
+   "pauli": "XZXIXZYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 79,
+   "pauli": "YZYIXZYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 80,
+   "pauli": "IIIYZZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 81,
+   "pauli": "IIIXZZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 82,
+   "pauli": "IIYZZZXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 83,
+   "pauli": "IIXZZZYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 84,
+   "pauli": "YZZZXIII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 85,
+   "pauli": "XZZZYIII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 86,
+   "pauli": "IYZZZXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 87,
+   "pauli": "IXZZZYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 88,
+   "pauli": "XXIIIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 89,
+   "pauli": "YYIIIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 90,
+   "pauli": "YXIIIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 91,
+   "pauli": "XYIIIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 92,
+   "pauli": "YXIIIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 93,
+   "pauli": "XYIIIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 94,
+   "pauli": "XXIIIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 95,
+   "pauli": "YYIIIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 96,
+   "pauli": "YZZZXIII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 97,
+   "pauli": "XZZZYIII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 98,
+   "pauli": "IYZZZXII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 99,
+   "pauli": "IXZZZYII",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 100,
+   "pauli": "IIIYZZZX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 101,
+   "pauli": "IIIXZZZY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 102,
+   "pauli": "IIYZZZXI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 103,
+   "pauli": "IIXZZZYI",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 104,
+   "pauli": "XXIIIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 105,
+   "pauli": "YYIIIIYX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 106,
+   "pauli": "YXIIIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 107,
+   "pauli": "XYIIIIYY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 108,
+   "pauli": "YXIIIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 109,
+   "pauli": "XYIIIIXX",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 110,
+   "pauli": "XXIIIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  },
+  {
+   "index": 111,
+   "pauli": "YYIIIIXY",
+   "epsilon": 0.0031526197798729654,
+   "t_count": 25
+  }
+ ],
+ "budget": {
+  "observable": "energy",
+  "unit": "Hartree",
+  "total": 0.0016,
+  "ansatz": 3.774758283725532e-15,
+  "memory": 0.00045387555632853886,
+  "synthesis": 0.0010590429647665907,
+  "magic_state": 8.708147890109589e-05
+ },
+ "assumptions": {
+  "p_phys": 0.001,
+  "p_T": 4.5e-08,
+  "during_step": "max",
+  "merge_rule": "min over support",
+  "duration_rule": "max over support",
+  "logical_Y": "omitted",
+  "alpha": 0.5,
+  "c_T": 190000.0,
+  "a": 3,
+  "b": 0,
+  "eps_max": 0.01,
+  "distances": [
+   3,
+   5,
+   7,
+   9,
+   11,
+   13,
+   15,
+   17,
+   19,
+   21,
+   23,
+   25,
+   27,
+   29,
+   31,
+   33
+  ]
+ }
+}

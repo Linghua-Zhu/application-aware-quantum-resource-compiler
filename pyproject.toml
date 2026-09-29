@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aqrc"
+version = "0.1.0"
+description = "Application-aware fault-tolerant resource allocation: observable sensitivity -> per-qubit code distance and per-rotation synthesis precision"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "pandas>=2.0",
+  "matplotlib>=3.7",
+  "stim>=1.13",
+  "pymatching>=2.2",
+  "sinter>=1.13",
+]
+
+[project.optional-dependencies]
+chem = ["pyscf>=2.4"]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
