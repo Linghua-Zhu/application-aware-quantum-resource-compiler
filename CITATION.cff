@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-title: "aqrc: application-aware quantum resource compiler"
+title: "Application-aware quantum resource compiler (AQRC)"
 authors:
   - family-names: Zhu
     given-names: Linghua
     affiliation: University of Washington
 version: 0.1
 date-released: 2026-09-29
-repository-code: https://github.com/Linghua-Zhu/aqrc
+repository-code: https://github.com/Linghua-Zhu/application-aware-quantum-resource-compiler
 license: Apache-2.0

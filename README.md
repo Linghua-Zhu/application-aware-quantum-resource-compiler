@@ -1,6 +1,6 @@
-# aqrc
+# Application-aware quantum resource compiler (AQRC)
 
-Application-aware quantum resource compiler. Given a molecular Hamiltonian, a state-preparation circuit written as Pauli product rotations, and an accuracy target on an observable, aqrc computes the sensitivity of the observable to a Pauli error at every (time slice, logical qubit, Pauli type) and uses it to choose a surface-code distance per logical qubit and a synthesis precision per rotation. The output is a JSON protection specification for downstream compilers and resource estimators. Layout, scheduling and gate synthesis are out of scope.
+Given a molecular Hamiltonian, a state-preparation circuit written as Pauli product rotations, and an accuracy target on an observable, aqrc computes the sensitivity of the observable to a Pauli error at every (time slice, logical qubit, Pauli type) and uses it to choose a surface-code distance per logical qubit and a synthesis precision per rotation. The output is a JSON protection specification for downstream compilers and resource estimators. Layout, scheduling and gate synthesis are out of scope.
 
 Version 0.1, research code.
 
