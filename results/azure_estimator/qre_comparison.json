@@ -1,0 +1,449 @@
+{
+ "logical_counts": {
+  "numQubits": 6,
+  "rotationCount": 40,
+  "rotationDepth": 40,
+  "measurementCount": 6
+ },
+ "s_bar_Ha": 0.1824611833621389,
+ "delta_mem_Ha": 0.0004740903385630485,
+ "delta_syn_Ha": 0.0011062107899804466,
+ "two_sigma_H_Ha": 0.041331843726614824,
+ "default": {
+  "budget": {
+   "logical": 0.0003333333333333333,
+   "t_states": 0.0003333333333333333,
+   "rotations": 0.0003333333333333333
+  },
+  "estimate": {
+   "code_distance": 13,
+   "t_per_rotation": 14,
+   "t_states": 560,
+   "t_factories": 11,
+   "physical_qubits": 113240,
+   "qubits_algorithm": 6760,
+   "qubits_factories": 106480,
+   "runtime_ms": 3.1512
+  },
+  "frontier": [
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 11,
+    "physical_qubits": 113240,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 106480,
+    "runtime_ms": 3.1512
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 10,
+    "physical_qubits": 103560,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 96800,
+    "runtime_ms": 3.2032
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 9,
+    "physical_qubits": 93880,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 87120,
+    "runtime_ms": 3.6036
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 8,
+    "physical_qubits": 84200,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 77440,
+    "runtime_ms": 4.004
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 7,
+    "physical_qubits": 74520,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 67760,
+    "runtime_ms": 4.576
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 6,
+    "physical_qubits": 64840,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 58080,
+    "runtime_ms": 5.3768
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 5,
+    "physical_qubits": 55160,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 48400,
+    "runtime_ms": 6.4064
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 4,
+    "physical_qubits": 45480,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 38720,
+    "runtime_ms": 8.008
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 3,
+    "physical_qubits": 35800,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 29040,
+    "runtime_ms": 10.6964
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 2,
+    "physical_qubits": 26120,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 19360,
+    "runtime_ms": 16.016
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 1,
+    "physical_qubits": 21764,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 15004,
+    "runtime_ms": 27.1076
+   },
+   {
+    "code_distance": 15,
+    "t_per_rotation": 14,
+    "t_states": 560,
+    "t_factories": 1,
+    "physical_qubits": 18680,
+    "qubits_algorithm": 9000,
+    "qubits_factories": 9680,
+    "runtime_ms": 32.034
+   }
+  ]
+ },
+ "aqrc": {
+  "budget": {
+   "logical": 0.002598307924059114,
+   "t_states": 0.0003333333333333333,
+   "rotations": 0.25951496318488637
+  },
+  "estimate": {
+   "code_distance": 11,
+   "t_per_rotation": 9,
+   "t_states": 360,
+   "t_factories": 11,
+   "physical_qubits": 111320,
+   "qubits_algorithm": 4840,
+   "qubits_factories": 106480,
+   "runtime_ms": 1.9096
+  },
+  "frontier": [
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 12,
+    "physical_qubits": 121000,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 116160,
+    "runtime_ms": 1.7864
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 11,
+    "physical_qubits": 111320,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 106480,
+    "runtime_ms": 1.8876
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 10,
+    "physical_qubits": 101640,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 96800,
+    "runtime_ms": 2.0592
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 9,
+    "physical_qubits": 91960,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 87120,
+    "runtime_ms": 2.288
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 8,
+    "physical_qubits": 82280,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 77440,
+    "runtime_ms": 2.574
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 7,
+    "physical_qubits": 72600,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 67760,
+    "runtime_ms": 2.9744
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 6,
+    "physical_qubits": 62920,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 58080,
+    "runtime_ms": 3.432
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 5,
+    "physical_qubits": 53240,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 48400,
+    "runtime_ms": 4.1184
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 4,
+    "physical_qubits": 43560,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 38720,
+    "runtime_ms": 5.148
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 3,
+    "physical_qubits": 33880,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 29040,
+    "runtime_ms": 6.864
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 2,
+    "physical_qubits": 24200,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 19360,
+    "runtime_ms": 10.296
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 1,
+    "physical_qubits": 19844,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 15004,
+    "runtime_ms": 17.424
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 9,
+    "t_states": 360,
+    "t_factories": 1,
+    "physical_qubits": 16440,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 9680,
+    "runtime_ms": 20.592
+   }
+  ]
+ },
+ "aqrc_first_order": {
+  "budget": {
+   "logical": 0.002598307924059114,
+   "t_states": 0.0003333333333333333,
+   "rotations": 0.026764128822739257
+  },
+  "estimate": {
+   "code_distance": 11,
+   "t_per_rotation": 11,
+   "t_states": 440,
+   "t_factories": 12,
+   "physical_qubits": 121000,
+   "qubits_algorithm": 4840,
+   "qubits_factories": 116160,
+   "runtime_ms": 2.1384
+  },
+  "frontier": [
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 12,
+    "physical_qubits": 121000,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 116160,
+    "runtime_ms": 2.1384
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 11,
+    "physical_qubits": 111320,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 106480,
+    "runtime_ms": 2.288
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 10,
+    "physical_qubits": 101640,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 96800,
+    "runtime_ms": 2.5168
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 9,
+    "physical_qubits": 91960,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 87120,
+    "runtime_ms": 2.8028
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 8,
+    "physical_qubits": 82280,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 77440,
+    "runtime_ms": 3.146
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 7,
+    "physical_qubits": 72600,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 67760,
+    "runtime_ms": 3.6036
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 6,
+    "physical_qubits": 62920,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 58080,
+    "runtime_ms": 4.2328
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 5,
+    "physical_qubits": 53240,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 48400,
+    "runtime_ms": 5.0336
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 4,
+    "physical_qubits": 43560,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 38720,
+    "runtime_ms": 6.292
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 3,
+    "physical_qubits": 33880,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 29040,
+    "runtime_ms": 8.4084
+   },
+   {
+    "code_distance": 11,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 2,
+    "physical_qubits": 24200,
+    "qubits_algorithm": 4840,
+    "qubits_factories": 19360,
+    "runtime_ms": 12.584
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 1,
+    "physical_qubits": 21764,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 15004,
+    "runtime_ms": 21.2992
+   },
+   {
+    "code_distance": 13,
+    "t_per_rotation": 11,
+    "t_states": 440,
+    "t_factories": 1,
+    "physical_qubits": 16440,
+    "qubits_algorithm": 6760,
+    "qubits_factories": 9680,
+    "runtime_ms": 25.168
+   }
+  ]
+ }
+}
